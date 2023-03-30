@@ -5,7 +5,7 @@
 ### Module for using ChatGpt via [PBModular](https://github.com/PBModular/bot)
 
 ## How to install
-<code>/mod_install https://github.com/vilander1337/ChatGptMod/</code>
+<code>/mod_install https://github.com/vilander1337/ChatGptMod</code>
 <br>
 ## How to use
 <code>/key "ur chatgpt api key"</code>
