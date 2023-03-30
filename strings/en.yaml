@@ -1,0 +1,8 @@
+errors:
+    noquestion: "<b>Write ur question for chatgpt with command /chatgpt!</b>ฅ^• ˕ •^ฅ"
+    apierr: "<b>Chatgpt api error!</b>OwO"
+    unknown: "<b>Unknown error!</b> 0_o"
+
+key:
+  keyadded: "<b>Key added!</b>^_^"
+  nokey: "<b>Paste ur chatgpt api key with command /key!</b>"
