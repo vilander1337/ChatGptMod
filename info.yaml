@@ -4,3 +4,5 @@ info:
   version: 1.0.0
   description: chat with chatgpt using pbmodular
   src_url: https://github.com/vilander1337/ChatGptMod
+permissions:
+  - require_db
